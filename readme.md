@@ -27,3 +27,4 @@ Initialized empty Git repository in /Users/xianggang5/Desktop/notebook/Git/git-r
 >
 >
 modified
+bug fixed
